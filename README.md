@@ -55,8 +55,7 @@ Just fair, global trade — owned by the community.
 
 **Founder**: Marco  
 **Core Contributors**:  
-- Nathalia (Designer)  
-- Lissa (Frontend Developer)  
+- Nathalia (Designer)    
 - Bitego / Eric (Frontend Developer)  
 - Eric (Backend / SUI Blockchain / Full Stack Engineer)
 
