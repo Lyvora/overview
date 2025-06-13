@@ -1,67 +1,98 @@
-# 🧬 Lyvora — Decentralized Marketplace for Real-World Products
+#  🧬 Lyvora
 
-**Lyvora** is a global, community-driven marketplace where users can buy and sell physical goods using crypto — with no borders, no middlemen, and no abusive fees.
+## The Decentralized Marketplace for Real-World Commerce
+**No middlemen. No borders. No abusive fees.**
 
-🚫 No KYC  
-🌎 Borderless commerce  
-🪙 Powered by crypto  
-💸 Flat 2.5% fee  
-🔒 100% on-chain reputation
+### The first decentralized marketplace for real-world products — no abusive fees, no bureaucracy, and full freedom to buy and sell with crypto.
 
----
-
-## 📌 What We're Building
-
-| Component         | Status          | Description                                        |
-|------------------|------------------|----------------------------------------------------|
-| Landing Page     | ✅ In Progress    | Professional marketing site (`getlyvora.com`)      |
-| MVP Interface    | ✅ In Progress    | Buyer/Seller dashboard UI                          |
-| Backend Logic    | 🔜 Planned        | APIs, smart contracts, product listing logic       |
-| Testnet          | 🔜 Planned        | Internal testnet for early product validation      |
-| Mainnet Launch   | 🔜 Planned        | Full deployment after MVP validation               |
-| DAO & Token      | 🚧 Future Phase   | To be implemented **after mainnet** and real usage |
+Lyvora is a new alternative to traditional digital commerce.  
+No subscriptions. No account freezing. No geographic limits — unless chosen by the user.  
+With a flat 2.5% fee and transparent on-chain reputation, the platform gives control and profits back to the real protagonists: sellers and buyers.
 
 ---
 
-## 💡 Vision
+## 🌍 Our Vision
 
-We believe commerce should be open, transparent, and decentralized.  
-Lyvora is built for people — not platforms.
+Lyvora isn’t just another Web3 marketplace — it’s a real shift in the global commerce model.
 
-No subscriptions. No withdrawal fees. No manipulation.  
-Just fair, global trade — owned by the community.
+We created this platform with a clear purpose: to combine the global reach of traditional marketplaces with the power of decentralization, transparency, and freedom.  
+Our mission is to eliminate middlemen, slash abusive fees, and give full control to people — not platforms.
+
+Everything happens on-chain: listings, purchases, reviews, reputation.  
+With direct crypto payments, no KYC, no hidden fees, and an accessible experience — even for Web2 users.
+
+We are building SUI’s strongest real-world use case:  
+**real commerce, with real people and real products.**
+
+Lyvora doesn’t aim to be the “Amazon of Web3.”  
+It’s a **reset button** — for global commerce, rebuilt around people.
+
+---
+
+## 🔍 Lyvora Highlights
+
+- 🚫 No mandatory KYC  
+- 💸 No fixed or hidden fees  
+- 📦 No subscriptions or category-based commissions  
+- 🌎 Borderless commerce — local or global, you decide  
+- 🧾 Transparent public reputation (on-chain)  
+- 🤝 Direct crypto payments (escrow via smart contracts)  
+- 🛠️ Coming soon: reputation NFTs, built-in DEX, DAO
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js, TailwindCSS  
-- **Backend**: Node.js (planned), PostgreSQL  
-- **Blockchain**: SUI Network  
-- **Smart Contracts**: Move Language
+- **Frontend:** Next.js, TailwindCSS  
+- **Backend:** Node.js (planned), PostgreSQL  
+- **Blockchain:** SUI Network  
+- **Smart Contracts:** Move Language
+
+---
+
+## 🗺️ Roadmap (Overview)
+
+| Phase       | Status       | Key Topics                                      |
+|-------------|--------------|-------------------------------------------------|
+| Foundation  | ✅ Ongoing     | Website, MVP interface, branding                |
+| Build       | 🔄 Upcoming    | Backend, testnet, community growth             |
+| Expansion   | 🔜 Planned     | Mainnet launch, real crypto transactions       |
+| Governance  | 🚧 Future      | DAO, on-chain reputation, governance token     |
+
+📄 [Full Roadmap](./ROADMAP.md)
+
+---
+
+## 👥 Core Team
+
+| Name        | Role                                                          |
+|-------------|---------------------------------------------------------------|
+| **Marco**   | 🧠 Founder & Project Lead                                     |
+| **Nathalia**| 🎨 Lead Designer                                              |
+| **Bitego**  | 💻 Senior Frontend Developer                                  |
+| **Eric M.** | 🔧 Backend Lead (SUI Blockchain / Full Stack Engineer)        |
+
+📄 [Full Team](./TEAM.md)
 
 ---
 
 ## 🔗 Official Links
 
 - 🌐 Website: [getlyvora.com](https://getlyvora.com)  
-- 🐦 Twitter (X): [@LyvoraOfficial](https://twitter.com/LyvoraOfficial)  
-- 💬 Discord: [Join the community](https://discord.gg/jtnDYseC)  
-- 📫 Contact: contact@getlyvora.com
+- 🐦 Twitter (X): [@LyvoraOfficial](https://x.com/lyvoraofficial)  
+- 💬 Discord: [Community](https://discord.gg/fvhQMjNUkn)  
+- 📸 Instagram: [@lyvora.official](https://instagram.com/lyvora.official)  
+- 📫 Email: contact@getlyvora.com
 
 ---
 
-## 👥 Team
+## 📄 Extended Docs
 
-**Founder**: Marco  
-**Core Contributors**:  
-- Nathalia (Designer)    
-- Bitego / Eric (Frontend Developer)  
-- Eric (Backend / SUI Blockchain / Full Stack Engineer)
-
-<!-- Future contributors will be listed here -->
+- 🌍 [Our Vision](./VISION.md)  
+- 🛣️ [Full Roadmap](./ROADMAP.md)  
+- 👥 [Team](./TEAM.md)
 
 ---
 
-> We're not just building a marketplace —  
-> **we're redesigning the rules of global commerce.**
+**Lyvora — fair, borderless, community-powered commerce.**
+
